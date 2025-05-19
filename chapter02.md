@@ -1,2 +1,6 @@
-# Chapter 02
-เนื้อหาตอนที่ 2
+<pre>
+```mermaid
+flowchart TD
+A --> B
+```
+</pre>
